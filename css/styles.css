@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    
     color: #202030;
     background-color: #f8f8fc;
 }
@@ -15,6 +15,7 @@ body {
 
 .resume-header {
     background-color: #5EE6C2;
+	font-family: 
 }
 
 
@@ -24,11 +25,14 @@ body {
 
 color: green;
 font-size: 12px;
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 }
 
 
 .resume-aside {
+	color:blue;
     background-color: #FBD0D1;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
 }
 
 /* Styles for lists in the document */
